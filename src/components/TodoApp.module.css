@@ -1,0 +1,20 @@
+.titulo {
+  font-size: 24px;
+  color: #fff;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.notaList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.notaItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  border-bottom: 1px solid #444;
+}

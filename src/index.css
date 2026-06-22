@@ -1,0 +1,26 @@
+body {
+  background-color: #222;
+  color: white;
+  font-family: sans-serif;
+  display: flex;
+  place-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+button {
+  border: 0;
+  padding: 8px;
+  width: 48px;
+  margin-right: 16px;
+  cursor: pointer;
+}
+
+.contenedorTodoApp {
+  width: 100%;
+  max-width: 480px;
+  margin: 32px auto;
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 16px;
+}
